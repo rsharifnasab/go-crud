@@ -1,3 +1,5 @@
+#!/usr/bin/sh
+
 curl --request POST \
     --url http://localhost:1323/customers \
     --header 'content-type: application/json' \
